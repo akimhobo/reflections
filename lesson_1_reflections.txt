@@ -1,0 +1,5 @@
+How did viewing a diff between tow versions of a file help you see the bug that was introduced?
+
+Diff will highlight the lines that were changed between files allowing a smaller
+scope to view possible bugs
+
